@@ -50,5 +50,5 @@
 
 **GitHub에서 클론**
 
-git clone https://github.com/MinJoon1994/campus_management.git
+git clone https://github.com/aosdb1257/campus_management.git
 
